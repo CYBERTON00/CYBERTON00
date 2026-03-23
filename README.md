@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello, I'm CYBERTON
 
-<!--
-**itsboy42068/itsboy42068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cybersecurity Learner | Ethical Hacking | Python Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 Class 12 Student (UP Board)
+- 🔐 Passionate about Cybersecurity & Ethical Hacking
+- ⚡ Focused on practical learning (tools, scripts, automation)
+- 🧪 Experimenting with APIs, Termux & real-world concepts
+
+---
+
+## 🛠️ Skills & Tools
+- 💻 Python (Basics to Intermediate)
+- 🌐 Networking Fundamentals
+- 🐧 Linux / Termux
+- 🔍 Web Security Basics (XSS, SQLi, etc.)
+- ⚙️ API Handling & Automation
+
+---
+
+## 🚀 Current Goals
+- Build real-world cybersecurity tools  
+- Learn Web Penetration Testing  
+- Contribute to open-source projects  
+- Master Linux & Networking  
+
+---
+
+## 📂 Projects (Pinned Below)
+- 🔎 Phone Info Lookup Tool  
+- 🌐 Basic Web Vulnerability Scanner  
+- ⚡ API Automation Scripts  
+- 🔐 Password Strength Checker  
+- 📡 Port Scanner Tool  
+
+---
+
+## 📫 Connect With Me
+- 🐦 X (Twitter): https://x.com/CYBERTON00  
+- 📸 Instagram: https://www.instagram.com/official_cyberton/  
+
+---
+
+⚡ *"Learning. Building. Securing."*

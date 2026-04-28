@@ -120,13 +120,3 @@ https://cyberton.in
 This is a **growth profile** — projects and skills will continuously evolve.
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CYBERTON00&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=CYBERTON00&theme=dark)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=CYBERTON00&theme=react-dark)
-    
-## 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=CYBERTON00&theme=github-dark&area=true&hide_border=true)
-
